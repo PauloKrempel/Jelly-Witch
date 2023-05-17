@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 724050c2e1b245e47a69a7d0c021269f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7df44c0074d21459ff31571ac4740d
+      internalID: 1117431141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f145ab23567f4da52cadb2dcc5c9a
+      internalID: 1893648902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9729b39d44d3c5488ad9cf1e62248fe
+      internalID: 987257009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6840b738ab82ed04cb391e5d4b737eb5
+      internalID: 2091872972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744eabecf5d705949b4bcd1c644ad970
+      internalID: -1395154513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92870e2dec57e48ba4793c6fa171f3
+      internalID: 1708187388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ffe45d7d630a64c986754c0e9d0556
+      internalID: -936220025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903026a4ab19b234c9d1d6bb2e534061
+      internalID: -194376719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf09fda5ca1d6a4991964899a149b17
+      internalID: -815677110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a533cca4ffac4ca95178c4433c8e6
+      internalID: -1201124062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815361d3dd0c1a4c835093e792ba4d7
+      internalID: -1891065122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ed4eed28bd7d42acae75bade8ee9d
+      internalID: -1442895693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b6fe9b7e1a4049a9e0e5b01d34087
+      internalID: -1318684914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721106803416914fb53da378b8268f2
+      internalID: 590826073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7a26eb3d13f34188bcb8ee094b346
+      internalID: 68215233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf34cfe9635794487d36c03fabd5cf
+      internalID: -1910697907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb227a655ab46d46a3e37b3d60068d2
+      internalID: -1634362061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4266820dd6df3f74e9ee2635dc730b6f
+      internalID: 177906034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_13: 590826073
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_6: -936220025
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_15: -1910697907
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_17: 177906034
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_12: -1318684914
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_4: -1395154513
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_9: -1201124062
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_3: 2091872972
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_10: -1891065122
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_8: -815677110
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_0: 1117431141
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_14: 68215233
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_16: -1634362061
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_1: 1893648902
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_5: 1708187388
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_7: -194376719
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_11: -1442895693
+      Game Jam CTRL ALT - character 2 Joaninha (1 idle)-Sheet_2: 987257009
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
