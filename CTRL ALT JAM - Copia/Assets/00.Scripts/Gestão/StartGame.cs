@@ -18,6 +18,6 @@ public class StartGame : MonoBehaviour
 
     private void Started()
     {
-        SceneManager.LoadScene("game");
+        SceneManager.LoadScene("historia");
     }
 }

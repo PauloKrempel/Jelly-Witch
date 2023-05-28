@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/00.Scripts/CauldronSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00.Scripts/Gestão/Credits.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/00.Scripts/Gestão/PauseManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/00.Scripts/Gestão/SettingsInGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/00.Scripts/Player/CoinCollected.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,6 +39,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Game Jam/v5\Jelly Witch.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\paulh\Desktop\Game Jam\v5" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\Users\paulh\Desktop\Jelly-Witch\CTRL ALT JAM - Copia&quot; -debugCodeOptimization" />
@@ -86,7 +95,7 @@
       <workItem from="1685146638566" duration="6088000" />
       <workItem from="1685220818495" duration="2188000" />
       <workItem from="1685227918075" duration="4250000" />
-      <workItem from="1685294676001" duration="386000" />
+      <workItem from="1685294676001" duration="6655000" />
     </task>
     <servers />
   </component>
