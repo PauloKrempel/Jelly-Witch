@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 1d0d626a4413a834a9e49d52dbaefb97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ccc2438ec4d5489f668259ca09c93
+      internalID: -1247283279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6858ade5b0772b3429db5f2815f6a9b1
+      internalID: -1372728026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d947c296f11340bd4a1971fea3c2c
+      internalID: 1563249272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53025d17e0dded4197df2533c4da955
+      internalID: -804968541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0b13ca626fe34db5d7cc3973551f6
+      internalID: -918192378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa91f0a0fe3d964c8f543d8161d19ba
+      internalID: 313154529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd8fe1d1d873f44852bb4da3cd0196
+      internalID: 55418628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df7619cd27829499b642aecc970a24
+      internalID: 1733267136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb797b0ee3b074b87450c88626d447
+      internalID: -975331409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43604709946274546a4e9c5013bfad53
+      internalID: 821130450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107e129332b4294e8944210b2e38262
+      internalID: 2012716303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68695b384ae784a9d92ae03635c91d
+      internalID: 1719369118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816bf499c67811c4bbd27f6aedeab04e
+      internalID: 14263469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47259640b351b4298b1287596fa865
+      internalID: -1817927834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 8
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649849f026276e47b0cb2c73e03004f
+      internalID: 743918440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 10
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262eb11c58058d41a78dd0dca14801a
+      internalID: -1081172839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 8
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d257d2a59c5a9c499cbcc34db4e8ebc
+      internalID: -1012929664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044f6910f7f8c645bee2c0784ad9615
+      internalID: 251543264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 5
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1174cee722684592f35d5e5cea35f
+      internalID: -979328407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 6
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e545674211db3147bede960885fb2cf
+      internalID: -1913174682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_6: 55418628
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_18: -979328407
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_19: -1913174682
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_12: 14263469
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_1: -1372728026
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_8: -975331409
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_0: -1247283279
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_7: 1733267136
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_2: 1563249272
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_11: 1719369118
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_3: -804968541
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_5: 313154529
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_16: -1012929664
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_17: 251543264
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_13: -1817927834
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_14: 743918440
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_9: 821130450
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_4: -918192378
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_10: 2012716303
+      Game Jam CTRL ALT - character 2 Joaninha (2 flying)-Sheet_15: -1081172839
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
